@@ -1,1 +1,1 @@
-# Mój pierwszy projekt zarządzany przez Git
+# Mój pierwszy projekt zarządzany przez Git# cwiczenia3
