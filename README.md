@@ -5,3 +5,4 @@
 # cwiczenia3
 # Ta zmiana została wprowadzona zdalnie..
 # To jest moja lokalna zmiana
+# Kolejna zmiana lokalna
