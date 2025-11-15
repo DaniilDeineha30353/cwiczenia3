@@ -3,4 +3,4 @@
 # cwiczenia3
 # cwiczenia3
 # cwiczenia3
-# cwiczenia3
+# Ta zmiana została wprowadzona zdalnie..
